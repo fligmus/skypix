@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18043" appversion="6.1.11" id="node1">
+  <input levelbias="0.400" leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" height="3600" width="3600">
+    <level preload="0" predecode="0" height="3600" width="3600"/>
+    <level preload="0" predecode="0" height="1800" width="1800"/>
+    <level preload="0" predecode="0" height="900" width="900"/>
+    <level preload="1" predecode="1" height="450" width="450"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="0" tilt="0" fov="70" projection="4"/>
+    <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" tilt="90" fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+  </view>
+  <userdata info="" title="" copyright="" tags="Новая папка" nodeid="node1" source="" latitude="" longitude="" heading="0" datetime="" comment="" author="" description="" customnodeid=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" border="1" enabled="1" textalpha="1" wordwrap="1" width="180"/>
+    <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomout="0" zoomoutpause="1" enabled="1"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control invertwheel="0" invertcontrol="1" contextfullscreen="1" hideabout="0" dblclickfullscreen="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" rubberband="0"/>
+</panorama>
